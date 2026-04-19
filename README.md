@@ -30,7 +30,7 @@ Portfólio pessoal focado em desenvolvimento front-end, com ênfase em performan
 Apresenta projetos reais, landing pages e aplicações interativas, utilizando HTML, CSS e JavaScript.
 Design moderno em dark mode, com atenção a detalhes visuais, responsividade e experiência do usuário.
 
-- [Acesse o projeto](https://jonatas-b.github.io/marioKart/)
+- [Acesse o projeto](https://jonatas-b.github.io/Portfolio2.0/)
 
 ## :memo: Licença
 
